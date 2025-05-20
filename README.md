@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🏫: estoy estudiando ingeniería civil.
 - 🔭: I’m currently working  small projects.
 - 🌱: estoy aprendiendo mas lenguaje. 🧠💻🤖
-- 😄:Ingles V1 y aprendiendo 
+- 😄:Ingles B1 y aprendiendo 
     
 - **Front-End Development**:
 
